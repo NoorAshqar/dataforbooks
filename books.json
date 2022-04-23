@@ -29,7 +29,7 @@
         },
         {
             "id": 4,
-            "image": "/images/books1.jpg",
+            "image": "/images/books4.jpg",
             "title": "Maecenas",
             "author": "Vestibulum turpis",
             "reviewedBy": "Etiam feugiat",
@@ -38,7 +38,7 @@
         },
         {
             "id": 5,
-            "image": "/images/books2.jpg",
+            "image": "/images/books5.jpg",
             "title": "Nam",
             "author": "Fusce vulputate",
             "reviewedBy": "Nunc nec",
@@ -47,7 +47,7 @@
         },
         {
             "id": 6,
-            "image": "/images/books3.jpg",
+            "image": "/images/books6.jpg",
             "title": "Suspendisse",
             "author": "Suspendisse pulvinar",
             "reviewedBy": "Phasellus volutpat",
@@ -56,7 +56,7 @@
         },
         {
             "id": 7,
-            "image": "/images/books1.jpg",
+            "image": "/images/books7.jpg",
             "title": "Maecenas",
             "author": "Vestibulum turpis",
             "reviewedBy": "Etiam feugiat",
@@ -65,7 +65,7 @@
         },
         {
             "id": 8,
-            "image": "/images/books2.jpg",
+            "image": "/images/books8.jpg",
             "title": "Nam",
             "author": "Fusce vulputate",
             "reviewedBy": "Nunc nec",
@@ -74,7 +74,7 @@
         },
         {
             "id": 9,
-            "image": "/images/books3.jpg",
+            "image": "/images/books.jpg",
             "title": "Suspendisse",
             "author": "Suspendisse pulvinar",
             "reviewedBy": "Phasellus volutpat",
